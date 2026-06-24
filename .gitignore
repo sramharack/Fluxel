@@ -1,6 +1,11 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
+venv/
 .env
+.DS_Store
 .streamlit/secrets.toml
-*.xlsx
+*.log
+exports/
+.cache/
+.pytest_cache/

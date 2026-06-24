@@ -1,0 +1,7 @@
+wastewater_category,per_capita_usgal_day,notes
+School / student,20,Starter value - replace with project/Corbitt value used by office
+Office / staff,15,Starter value - replace with project/Corbitt value used by office
+Kitchen / cafeteria,25,Starter value - replace with project/Corbitt value used by office
+Dormitory / resident,50,Starter value - replace with project/Corbitt value used by office
+Assembly / visitor,5,Starter value - replace with project/Corbitt value used by office
+Accommodated elsewhere,0,No wastewater assigned in this module

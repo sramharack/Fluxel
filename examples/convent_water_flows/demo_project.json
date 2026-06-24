@@ -1,0 +1,33 @@
+{
+  "project_name": "Convent Water Flows - Demo Validation Project",
+  "description": "Starter demo project. Replace with the extracted workbook rows when moving the validation baseline into Fluxel.",
+  "rooms": [
+    {
+      "building": "Block A",
+      "room_type": "Classroom",
+      "area_ft2": 850,
+      "occupancy_category": "Classrooms (age 9 plus)",
+      "qty": 4,
+      "persons_per_room": 0,
+      "wastewater_category": "School / student"
+    },
+    {
+      "building": "Block A",
+      "room_type": "Office",
+      "area_ft2": 300,
+      "occupancy_category": "Office space",
+      "qty": 2,
+      "persons_per_room": 0,
+      "wastewater_category": "Office / staff"
+    },
+    {
+      "building": "Block B",
+      "room_type": "Cafeteria Dining",
+      "area_ft2": 1200,
+      "occupancy_category": "Cafeteria/fast-food dining",
+      "qty": 1,
+      "persons_per_room": 0,
+      "wastewater_category": "Kitchen / cafeteria"
+    }
+  ]
+}

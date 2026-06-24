@@ -1,0 +1,8 @@
+[project]
+name = "fluxel-mep"
+version = "0.1.0"
+description = "Fluxel — MEP design calculation suite"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
