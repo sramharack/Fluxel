@@ -12,13 +12,17 @@ The first production module is **Plumbing → Water Flows**, based around site/b
 
 - **Plumbing / Public Health**
   - Water flow calculator
-  - Building and room object input
+  - Demo validation project replicated from the Convent Water Flows workbook
+  - New blank project creation and JSON import/export
+  - Building objects with room schedules
+  - Persons-based or area-based occupancy input method per row
   - ASHRAE occupancy-density lookup table
-  - Per-capita wastewater flow lookup
-  - Average dry weather flow calculation
-  - Septic/sewage storage allowance
-  - Potable water storage allowance
-  - Site flow diagram output
+  - Corbitt/workbook wastewater category lookup
+  - Optional manual density and wastewater flow overrides
+  - Average dry-weather wastewater flow calculation
+  - Separate sewage/septic storage and potable water storage settings
+  - Harmon peak factor and hourly peak sewage flow
+  - Workbook comparison tab for validation
 
 - **Electrical**
   - Starter load calculator
@@ -72,8 +76,10 @@ fluxel-mep/
 │
 ├─ data/
 │  ├─ plumbing/
-│  │  ├─ ashrae_62_1_2022_occupancy.csv
-│  │  └─ wastewater_per_capita.csv
+│  │  ├─ ashrae_62_1_2022_table_6_1_user_provided.csv
+│  │  ├─ wastewater_categories_corbitt.csv
+│  │  ├─ ashrae_62_1_2022_occupancy.csv              # legacy starter alias
+│  │  └─ wastewater_per_capita.csv                    # legacy starter alias
 │  ├─ electrical/
 │  └─ hvac/
 │
@@ -85,6 +91,13 @@ fluxel-mep/
 ├─ tests/
 └─ requirements.txt
 ```
+
+
+## Water Flows validation demo
+
+The Convent Water Flows demo is intentionally kept as a validation project, not as the default structure for all future projects. Use it to confirm the Python calculation engine matches the spreadsheet, then use **New blank** or **Copy demo as new project** for actual work.
+
+Restored Water Flows functionality includes building objects, room input methods, ASHRAE lookup, Corbitt/workbook wastewater lookup, storage separation, peak-flow calculation, JSON import/export, CSV outputs, and workbook comparison checks.
 
 ## Development rule
 

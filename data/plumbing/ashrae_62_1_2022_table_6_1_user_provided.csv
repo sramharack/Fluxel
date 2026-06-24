@@ -1,0 +1,81 @@
+occupancy_category,rp_cfm_per_person,ra_cfm_per_ft2,rp_lps_per_person,ra_lps_per_m2,default_occupant_density_per_1000_ft2
+Art classroom,10,0.18,5,0.9,20
+Auditorium seating area,5,0.06,2.5,0.3,150
+Bank vaults/safe deposit,5,0.06,2.5,0.3,5
+Banks or bank lobbies,7.5,0.06,3.8,0.3,15
+Barbershop,7.5,0.06,3.8,0.3,25
+Barracks sleeping areas,5,0.06,2.5,0.3,20
+"Bars, cocktail lounges",7.5,0.18,3.8,0.9,100
+Beauty and nail salons,20,0.12,10,0.6,25
+Bedroom/living room,5,0.06,2.5,0.3,10
+Booking/waiting,7.5,0.06,3.8,0.3,50
+Bowling alley (seating),10,0.12,5,0.6,40
+Break rooms (General),5,0.06,2.5,0.3,50
+Break rooms (Office),5,0.12,2.5,0.6,50
+Cafeteria/fast-food dining,7.5,0.18,3.8,0.9,100
+Cell,5,0.12,2.5,0.6,25
+Classrooms (age 9 plus),10,0.12,5,0.6,35
+Classrooms (ages 5–8),10,0.12,5,0.6,25
+Coffee stations,5,0.06,2.5,0.3,20
+Coin-operated laundries,7.5,0.12,3.8,0.6,20
+Common corridors,0,0.06,0,0.3,0
+Computer (not printing),5,0.06,2.5,0.3,4
+Computer lab,10,0.12,5,0.6,25
+Conference/meeting,5,0.06,2.5,0.3,50
+Corridors,0,0.06,0,0.3,0
+Courtrooms,5,0.06,2.5,0.3,70
+Daycare (through age 4),10,0.18,5,0.9,25
+Daycare sickroom,10,0.18,5,0.9,25
+Dayroom,5,0.06,2.5,0.3,30
+Disco/dance floors,20,0.06,10,0.3,100
+Dwelling unit,5,0.06,2.5,0.3,2
+Freezer and refrigerated spaces (<50°F),10,0,5,0,0
+Gambling casinos,7.5,0.18,3.8,0.9,120
+Game arcades,7.5,0.18,3.8,0.9,20
+General manufacturing (excludes heavy industrial and processes using chemicals),10,0.18,5,0.9,7
+Guard stations,5,0.06,2.5,0.3,15
+"Gym, sports arena (play area)",20,0.18,10,0.9,7
+Health club/aerobics room,20,0.06,10,0.3,40
+Health club/weight rooms,20,0.06,10,0.3,10
+Kitchen (cooking),7.5,0.12,3.8,0.6,20
+Laundry rooms within dwelling units,5,0.12,2.5,0.6,10
+"Laundry rooms, central",5,0.12,2.5,0.6,10
+Lecture classroom,7.5,0.06,3.8,0.3,65
+Lecture hall (fixed seats),7.5,0.06,3.8,0.3,150
+Legislative chambers,5,0.06,2.5,0.3,50
+Libraries,5,0.12,2.5,0.6,10
+Lobbies,5,0.06,2.5,0.3,150
+Lobbies/prefunction,7.5,0.06,3.8,0.3,30
+Main entry lobbies,5,0.06,2.5,0.3,10
+Mall common areas,7.5,0.06,3.8,0.3,40
+Media center,10,0.12,5,0.6,25
+Multipurpose assembly,5,0.06,2.5,0.3,120
+Multi-use assembly,7.5,0.06,3.8,0.3,100
+Museums (children’s),7.5,0.12,3.8,0.6,40
+Museums/galleries,7.5,0.06,3.8,0.3,40
+Music/theater/dance,10,0.06,5,0.3,35
+Occupiable storage rooms for liquids or gels,5,0.12,2.5,0.6,2
+Occupiable storage rooms for dry materials,5,0.06,2.5,0.3,2
+Office space,5,0.06,2.5,0.3,5
+Pet shops (animal areas),7.5,0.18,3.8,0.9,10
+Pharmacy (prep. area),5,0.18,2.5,0.9,10
+Photo studios,5,0.12,2.5,0.6,10
+Places of religious worship,5,0.06,2.5,0.3,120
+Reception areas,5,0.06,2.5,0.3,30
+Restaurant dining rooms,7.5,0.18,3.8,0.9,70
+Sales (except as below),7.5,0.12,3.8,0.6,15
+Science laboratories,10,0.18,5,0.9,25
+Shipping/receiving,10,0.12,5,0.6,2
+"Sorting, packing, light assembly",7.5,0.12,3.8,0.6,7
+Spectator areas,7.5,0.06,3.8,0.3,150
+"Stages, studios",10,0.06,5,0.3,70
+Supermarket,7.5,0.06,3.8,0.3,8
+Swimming (pool & deck),0,0.48,0,2.4,0
+Telephone closets,0,0,0,0,0
+Telephone/data entry,5,0.06,2.5,0.3,60
+Transportation waiting,7.5,0.06,3.8,0.3,100
+University/college laboratories,10,0.18,5,0.9,25
+Warehouses,10,0.06,5,0.3,0
+Wood/metal shop,10,0.18,5,0.9,20
+Accommodated Elsewhere/ Not Applicable,0,0,0,0,0
+Sanitary Exhaust,0,0,0,0,0
