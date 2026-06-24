@@ -1,0 +1,16 @@
+category,default_density_capita_per_ft2_or_per_no,litres_per_capita_day,usgal_per_capita_day,source
+1-Bed APT,2.0,283.90588379999997,75.0,Convent Water Flows workbook / Corbitt-derived design table
+2-Bed APT,3.0,283.90588379999997,75.0,Convent Water Flows workbook / Corbitt-derived design table
+3-Bed APT,4.0,283.90588379999997,75.0,Convent Water Flows workbook / Corbitt-derived design table
+4-Bed APT,5.0,283.90588379999997,75.0,Convent Water Flows workbook / Corbitt-derived design table
+5-Bed APT,6.0,283.90588379999997,75.0,Convent Water Flows workbook / Corbitt-derived design table
+Students,0.025,94.6352946,25.0,Convent Water Flows workbook / Corbitt-derived design table
+Staff,0.005,56.78117676,15.0,Convent Water Flows workbook / Corbitt-derived design table
+Break Rooms,0.05,56.78117676,15.0,Convent Water Flows workbook / Corbitt-derived design table
+Cooking Staff,0.02,56.78117676,15.0,Convent Water Flows workbook / Corbitt-derived design table
+Guard Station,0.015,56.78117676,15.0,Convent Water Flows workbook / Corbitt-derived design table
+Nurse,1.0,56.78117676,15.0,Convent Water Flows workbook / Corbitt-derived design table
+Dining Patron,0.07,30.283294272,8.0,Convent Water Flows workbook / Corbitt-derived design table
+Bar Patron,0.1,7.570823568,2.0,Convent Water Flows workbook / Corbitt-derived design table
+Hospital Beds,1.0,567.8117675999999,150.0,Convent Water Flows workbook / Corbitt-derived design table
+Hospital Staff,1.0,56.78117676,15.0,Convent Water Flows workbook / Corbitt-derived design table

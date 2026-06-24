@@ -1,0 +1,2 @@
+Future improvement: add scripts/extract_convent_water_flows.py to regenerate seed JSON from a workbook.
+Current package includes the extracted seed JSON only.
